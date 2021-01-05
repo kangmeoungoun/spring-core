@@ -1,3 +1,3 @@
-### 회원 도메인 개발
+### 회원도메인 실행과 테스트
 
-![image](https://user-images.githubusercontent.com/40969203/103652334-4ecaa180-4fa6-11eb-96a9-1a691fe9f598.png)
+![image](https://user-images.githubusercontent.com/40969203/103654025-b255ce80-4fa8-11eb-80d4-0b1afffd10c4.png)

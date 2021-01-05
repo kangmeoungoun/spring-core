@@ -1,3 +1,3 @@
-### 비즈니스 요구사항과 설계
-![image](https://user-images.githubusercontent.com/40969203/103650228-09f13b80-4fa3-11eb-82b7-b029f902adf0.png)
-![image](https://user-images.githubusercontent.com/40969203/103650250-12497680-4fa3-11eb-9eb5-fa6eef35ea41.png)
+### 회원 도메인 설계
+![image](https://user-images.githubusercontent.com/40969203/103650860-01e5cb80-4fa4-11eb-8d2c-301f0c047d27.png)
+![image](https://user-images.githubusercontent.com/40969203/103650869-05795280-4fa4-11eb-951e-b3e54697f2e5.png)

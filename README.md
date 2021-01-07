@@ -1,3 +1,3 @@
-### 스프링 빈 조회 - 기본
+### 스프링 빈 조회 - 동일한 타입이 둘 이상
 
-![image](https://user-images.githubusercontent.com/40969203/103956313-a413d800-518b-11eb-94dd-8ec48ed0e615.png)
+![image](https://user-images.githubusercontent.com/40969203/103957247-a5460480-518d-11eb-9371-90938aa52b5a.png)

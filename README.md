@@ -1,6 +1,4 @@
-### 새로운 구조와 할인 정책 적용
+### 전체 흐름 정리
 
-![image](https://user-images.githubusercontent.com/40969203/103832808-9e05f480-50c2-11eb-9517-5948d82779bc.png)
-![image](https://user-images.githubusercontent.com/40969203/103832817-a2caa880-50c2-11eb-8349-54c383c4ed7f.png)
-![image](https://user-images.githubusercontent.com/40969203/103832821-a65e2f80-50c2-11eb-914c-5b981eb2b7b5.png)
-![image](https://user-images.githubusercontent.com/40969203/103832833-ae1dd400-50c2-11eb-8d3a-e02592ba1f5d.png)
+![image](https://user-images.githubusercontent.com/40969203/103890820-1785fd00-512c-11eb-8b98-4dc09e98cee6.png)
+![image](https://user-images.githubusercontent.com/40969203/103890829-1bb21a80-512c-11eb-848f-d28447441872.png)

@@ -1,3 +1,3 @@
-### 컨테이너에 등록된 모든 빈 조회
+### 스프링 빈 조회 - 기본
 
-![image](https://user-images.githubusercontent.com/40969203/103955128-028b8700-5189-11eb-9c91-90c36695c573.png)
+![image](https://user-images.githubusercontent.com/40969203/103956313-a413d800-518b-11eb-94dd-8ec48ed0e615.png)

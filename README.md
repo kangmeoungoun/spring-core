@@ -1,3 +1,3 @@
-### 스프링 빈 조회 - 동일한 타입이 둘 이상
+### 스프링 빈 조회 - 상속관계
 
-![image](https://user-images.githubusercontent.com/40969203/103957247-a5460480-518d-11eb-9371-90938aa52b5a.png)
+![image](https://user-images.githubusercontent.com/40969203/104017525-9e55db00-51fb-11eb-8318-ef7c88ca00be.png)

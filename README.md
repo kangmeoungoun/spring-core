@@ -1,4 +1,5 @@
-### 싱글톤 방식의 주의점
+### @Configuration 과 싱글톤
 
-![image](https://user-images.githubusercontent.com/40969203/104083081-ebc75c00-527e-11eb-8518-71b64836810e.png)
-![image](https://user-images.githubusercontent.com/40969203/104083083-ef5ae300-527e-11eb-97ab-711d0a29b6f1.png)
+![image](https://user-images.githubusercontent.com/40969203/104083782-cb9a9b80-5284-11eb-9612-f65337c4d17d.png)
+![image](https://user-images.githubusercontent.com/40969203/104083784-d2c1a980-5284-11eb-9ceb-1662740e074d.png)
+![image](https://user-images.githubusercontent.com/40969203/104083786-d6553080-5284-11eb-8cad-882438c498d6.png)

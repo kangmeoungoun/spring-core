@@ -1,5 +1,4 @@
-### 싱글톤 컨테이너
+### 싱글톤 방식의 주의점
 
-![image](https://user-images.githubusercontent.com/40969203/104082625-216a4600-527b-11eb-8572-dfc3e9bf1ed2.png)
-![image](https://user-images.githubusercontent.com/40969203/104082628-25966380-527b-11eb-849a-8fd57511cfb6.png)
-![image](https://user-images.githubusercontent.com/40969203/104082632-2af3ae00-527b-11eb-878c-04a3ff9e8181.png)
+![image](https://user-images.githubusercontent.com/40969203/104083081-ebc75c00-527e-11eb-8518-71b64836810e.png)
+![image](https://user-images.githubusercontent.com/40969203/104083083-ef5ae300-527e-11eb-97ab-711d0a29b6f1.png)

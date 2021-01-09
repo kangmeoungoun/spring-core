@@ -1,5 +1,5 @@
-### 웹 애플리케이션과 싱글톤
+### 싱글톤 패턴
 
-![image](https://user-images.githubusercontent.com/40969203/104081803-85d5d700-5274-11eb-820c-97c65c5b2aa5.png)
-![image](https://user-images.githubusercontent.com/40969203/104081806-8a01f480-5274-11eb-8806-21d247e668f8.png)
-![image](https://user-images.githubusercontent.com/40969203/104081808-8cfce500-5274-11eb-97dc-98626c788325.png)
+![image](https://user-images.githubusercontent.com/40969203/104082277-3396b500-5278-11eb-91f9-9edb6bb14fd0.png)
+![image](https://user-images.githubusercontent.com/40969203/104082280-37c2d280-5278-11eb-9228-8093641b533e.png)
+![image](https://user-images.githubusercontent.com/40969203/104082284-3d201d00-5278-11eb-9c66-505e7debd7cd.png)

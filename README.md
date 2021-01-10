@@ -1,10 +1,5 @@
-### 빈 생명주기 콜백 시작
+### 인터페이스 InitializingBean,DisposableBean
 
-![image](https://user-images.githubusercontent.com/40969203/104137991-4b8b4780-53e4-11eb-8737-422b50a9bdb0.png)
-![image](https://user-images.githubusercontent.com/40969203/104137992-504ffb80-53e4-11eb-86c8-0b4ac75520ae.png)
-![image](https://user-images.githubusercontent.com/40969203/104137999-53e38280-53e4-11eb-8217-6ff1d5e0c437.png)
-![image](https://user-images.githubusercontent.com/40969203/104138003-5a71fa00-53e4-11eb-9f72-65891997eda2.png)
-![image](https://user-images.githubusercontent.com/40969203/104138006-61007180-53e4-11eb-80b5-0aecedc3e2b9.png)
-![image](https://user-images.githubusercontent.com/40969203/104138011-65c52580-53e4-11eb-8994-bdbd119e59a8.png)
-
-
+![image](https://user-images.githubusercontent.com/40969203/104138345-da00c880-53e6-11eb-8e38-70c9da4afd09.png)
+![image](https://user-images.githubusercontent.com/40969203/104138348-dd944f80-53e6-11eb-98a5-6981f107465e.png)
+![image](https://user-images.githubusercontent.com/40969203/104138350-e127d680-53e6-11eb-8e12-5758a3d191c2.png)

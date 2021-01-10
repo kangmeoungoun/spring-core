@@ -1,5 +1,7 @@
-### 인터페이스 InitializingBean,DisposableBean
+### 빈 등록 초기화,소멸 메서드
 
-![image](https://user-images.githubusercontent.com/40969203/104138345-da00c880-53e6-11eb-8e38-70c9da4afd09.png)
-![image](https://user-images.githubusercontent.com/40969203/104138348-dd944f80-53e6-11eb-98a5-6981f107465e.png)
-![image](https://user-images.githubusercontent.com/40969203/104138350-e127d680-53e6-11eb-8e12-5758a3d191c2.png)
+![image](https://user-images.githubusercontent.com/40969203/104138513-dfaade00-53e7-11eb-9a94-2446eee397eb.png)
+![image](https://user-images.githubusercontent.com/40969203/104138515-e5082880-53e7-11eb-89b2-67a868451c6a.png)
+![image](https://user-images.githubusercontent.com/40969203/104138517-e9ccdc80-53e7-11eb-9675-5d3e6c943849.png)
+![image](https://user-images.githubusercontent.com/40969203/104138520-ed606380-53e7-11eb-83a6-51c5f6796959.png)
+

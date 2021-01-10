@@ -1,7 +1,6 @@
-### 조회한 빈이 모두 필요할 때, List,Map
+### 자동, 수동의 올바른 실무 운영 기준
 
-![image](https://user-images.githubusercontent.com/40969203/104124773-e872c400-5395-11eb-9eb1-19571dfd38b6.png)
-![image](https://user-images.githubusercontent.com/40969203/104124776-ee68a500-5395-11eb-8d4c-ced144080b4c.png)
-![image](https://user-images.githubusercontent.com/40969203/104124785-f4f71c80-5395-11eb-9eff-e1e40d6fd0c5.png)
-![image](https://user-images.githubusercontent.com/40969203/104124788-f9233a00-5395-11eb-85a3-15f8ee28dcf8.png)
+![image](https://user-images.githubusercontent.com/40969203/104125179-7ea7e980-5398-11eb-8fc2-64cb528230df.png)
+![image](https://user-images.githubusercontent.com/40969203/104125183-85cef780-5398-11eb-9800-e22b02c7f226.png)
+![image](https://user-images.githubusercontent.com/40969203/104125186-89627e80-5398-11eb-8ec1-4677bf244e5d.png)
 

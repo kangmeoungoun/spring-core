@@ -1,10 +1,16 @@
-### 프로토타입 스코프?
+### 프로토타입 스코프 - 싱글톤 빈과 함꼐 사용시 문제점
 
-![image](https://user-images.githubusercontent.com/40969203/104180835-21bc3a00-5451-11eb-8294-fb4dcd15d98d.png)
-![image](https://user-images.githubusercontent.com/40969203/104180847-27198480-5451-11eb-8e7a-374198f876d4.png)
-![image](https://user-images.githubusercontent.com/40969203/104180859-2c76cf00-5451-11eb-9d09-b76b635f58af.png)
-![image](https://user-images.githubusercontent.com/40969203/104180871-300a5600-5451-11eb-9ccb-f42fbbf5f520.png)
-![image](https://user-images.githubusercontent.com/40969203/104180884-34cf0a00-5451-11eb-8162-b512479974b9.png)
-![image](https://user-images.githubusercontent.com/40969203/104180899-3b5d8180-5451-11eb-9d29-8c2c76fe6785.png)
-![image](https://user-images.githubusercontent.com/40969203/104180908-3f899f00-5451-11eb-8c5d-578ca94bd5df.png)
-![image](https://user-images.githubusercontent.com/40969203/104180921-444e5300-5451-11eb-9fab-4ecaa390de58.png)
+![image](https://user-images.githubusercontent.com/40969203/104183631-9d1fea80-5455-11eb-9ddc-6287f875d0e4.png)
+![image](https://user-images.githubusercontent.com/40969203/104183637-a0b37180-5455-11eb-9eef-433a5602ac8d.png)
+![image](https://user-images.githubusercontent.com/40969203/104183652-a446f880-5455-11eb-8400-edd335aeecbb.png)
+![image](https://user-images.githubusercontent.com/40969203/104183660-a741e900-5455-11eb-8678-1cb23a5f0c40.png)
+![image](https://user-images.githubusercontent.com/40969203/104183677-aad57000-5455-11eb-919e-8640ebd07267.png)
+![image](https://user-images.githubusercontent.com/40969203/104183689-b032ba80-5455-11eb-823f-b5e3339c481e.png)
+![image](https://user-images.githubusercontent.com/40969203/104183695-b32dab00-5455-11eb-9c94-b737b2352994.png)
+![image](https://user-images.githubusercontent.com/40969203/104183703-b6c13200-5455-11eb-84f4-57af88268423.png)
+![image](https://user-images.githubusercontent.com/40969203/104183711-b9238c00-5455-11eb-95c1-00b0f6d2952f.png)
+![image](https://user-images.githubusercontent.com/40969203/104183719-bd4fa980-5455-11eb-8c30-b3e631bbfd4c.png)
+![image](https://user-images.githubusercontent.com/40969203/104183734-c17bc700-5455-11eb-9ca9-396a8cd80d30.png)
+![image](https://user-images.githubusercontent.com/40969203/104183743-c50f4e00-5455-11eb-87c6-3105ff6c5920.png)
+
+
